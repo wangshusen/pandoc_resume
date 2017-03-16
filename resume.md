@@ -1,100 +1,180 @@
-Johnny Coder
+Shusen Wang
 ============
 
-----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
 
-----
+>  Postdoctoral Scholar,
+>  Department of Statistics,
+>  UC Berkeley
+
+-------------------     ----------------------------
+Phone: (510)229-0382      Email: shusen@berkeley.edu
+-------------------     ----------------------------
+
+
+Research
+---------
+
+Machine learning, matrix computation, randomized linear algebra, convex optimization.
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2011-2016
+:   **Doctor of Engeering**; Zhejiang University (Hangzhou, China)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+	*Major: Computer Science*
+	
+	*Advisor: Zhihua Zhang*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+    *Thesis: Large-Scale Machine Learning: A Randomized Approach and Theoretical Analysis*
 
-    *Minor: Awesomeology*
+2007-2011
+:   **Bachelor of Engeering**; Zhejiang University (Hangzhou, China)
 
-Experience
+	*Major: Computer Science*
+
+Work Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2016-Now
+:   **Postdoctoral Scholar**; Department of Statistics, UC Berkeley (Berkeley, CA, USA)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+	*Advisor: Michael W. Mahoney*
 
-* First item
+	*Research: randomized linear algebra and implementation*
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+2014-2015
+:   **Research Intern**; Baidu Big Data Lab (Beijing, China)
 
-**That Other Job You Had**
+	*Mentor: Tong Zhang*
 
-Also with a short description.
+	*Research: optimization algorithms*
 
-Technical Experience
+2012
+:   **Research Intern**; Google Research (Beijing, China)
+
+	*Research: randomized algorithms*
+	
+2011-2012
+:   **Intern**; Microsoft Research Asia (Beijing, China)
+
+	*Advisor: Haixun Wang and Yangqiu Song*
+
+	*Project: probabilistic knowledge base*
+	
+Academic Service
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+* **Journal Reviewer**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+     * Journal of Machine Learning Research 2015, 2016, 2017
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+* **Conference Reviewer or Committee Member**
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+     * NIPS 2014, 2015
+     * ICML 2017
+     * IJCAI 2015, 2017
+     * AAAI 2016
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Selected Honors & Awards
+--------------------
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+2014
+:   **Baidu Scholarship**, awarded to 8 Chinese students in the world, US$30,000
 
-* Human Languages:
+2013
+:   **Microsoft Research Asia Fellow**,
+awarded to 10 students in Asia Pacific, US$10,000
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+2012
+:   **Scholarship Award for Excellent Doctoral Student Granted by Ministry of Education**, US$5,000
 
-* Random tidbit
+2012-2014
+:   **National Scholarship for Graduate Students**, 3 times, each time US$5,000
 
-* Other sort of impressive-sounding thing you did
 
-----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+Recorded Talks
+--------------------
+
+* Sketched Ridge Regression: Optimization and Statistical Perspectives. *SIAM Computational Science and Engineering, 2017.*
+[[slides]](http://wangshusen.github.io/slides/2017-SIAM-regression.pdf)
+[[video]](https://www.pathlms.com/siam/courses/4150/sections/5819/video_presentations/42619)
+
+* Efficient Algorithms and Error Analysis for the Modified Nystrom Method. *International Conference on Artificial Intelligence and Statistics (AISTATS), 2014.* [[slides]](http://wangshusen.github.io/slides/2014-AISTATS-Nystrom.pdf) [[video]](https://www.youtube.com/watch?v=d6rJvJk1ZLc)
+
+
+
+
+Journal Papers
+--------------------
+
+* [Towards More Efficient SPSD Matrix Approximation and CUR Matrix Decomposition](http://wangshusen.github.io/papers/JMLR2016b.pdf).
+**Shusen Wang**, Zhihua Zhang, and Tong Zhang.
+*Journal of Machine Learning Research*, 17(210):1−49, 2016. (**JMLR** 2016).
+
+* [SPSD Matrix Approximation vis Column Selection: Theories, Algorithms, and Extensions.](http://wangshusen.github.io/papers/JMLR2016.pdf)
+**Shusen Wang**, Luo Luo, and Zhihua Zhang.
+*Journal of Machine Learning Research*, 17(49):1-49, 2016. (**JMLR** 2016).
+
+* [Improving CUR Matrix Decomposition and the Nystrom Approximation via Adaptive Sampling.](http://wangshusen.github.io/papers/JMLR2013.pdf)
+**Shusen Wang** and Zhihua Zhang. 
+*Journal of Machine Learning Research*, 14: 2729-2769, 2013. (**JMLR** 2013).
+
+* [EP-GIG Priors and Applications in Bayesian Sparse Learning.](http://wangshusen.github.io/papers/JMLR2012.pdf)
+Zhihua Zhang, **Shusen Wang**, Dehua Liu, and Michael I. Jordan.
+*Journal of Machine Learning Research*, 13: 2031-2061, 2012. (**JMLR** 2012).
+
+
+
+Conference Papers
+--------------------
+
+* [Open Domain Short Text Conceptualization: A Generative + Descriptive Modeling Approach.]()
+Yangqiu Song, **Shusen Wang**, and Haixun Wang.
+In *International Joint Conference on Artificial Intelligence*, 2015. (**IJCAI** 2015).
+
+* [Improving the Modified Nystrom Method Using Spectral Shifting.]()
+**Shusen Wang**, Chao Zhang, Hui Qian, and Zhihua Zhang.
+In *the 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 2014. (**KDD** 2014).
+
+* [Efficient Algorithms and Error Analysis for the Modified Nystrom Method.]()
+**Shusen Wang** and Zhihua Zhang.
+In *Proceedings of the 17th International Conference on Artificial Intelligence and Statistics, JMLR W&CP*, 2014. (**AISTATS** 2014).
+
+
+* [Making Fisher Discriminant Analysis Scalable.]()
+Bojun Tu, Zhihua Zhang, **Shusen Wang**, and Hui Qian.
+In *the International Conference on Machine Learning*. (**ICML** 2014).
+
+* [Exact Subspace Clustering in Linear Time.]()
+**Shusen Wang**, Bojun Tu, Congfu Xu, and Zhihua Zhang.
+In *the 28th AAAI Conference on Artificial Intelligence*. (**AAAI** 2014).
+
+* [Using The Matrix Ridge Approximation to Speedup Determinantal Point Processes Sampling Algorithms.]()
+**Shusen Wang**, Chao Zhang, Hui Qian, and Zhihua Zhang.
+In *the 28th AAAI Conference on Artificial Intelligence*. (**AAAI** 2014).
+
+* [Transfer Understanding from Head Queries to Tail Queries.]()
+Yangqiu Song, Haixun Wang, Weizhu Chen, and **Shusen Wang**.
+In *the 23rd ACM International Conference on Information and Knowledge Management*. (**CIKM** 2014).
+
+* [Nonconvex Relaxation Approaches to Robust Matrix Recovery.]()
+**Shusen Wang**, Dehua Liu, and Zhihua Zhang.
+In *International Joint Conference on Artificial Intelligence*. (**IJCAI** 2013).
+
+* [A Scalable CUR Matrix Decomposition Algorithm: Lower Time Complexity and Tighter Bound.]()
+**Shusen Wang** and Zhihua Zhang.
+In *Advances in Neural Information Processing Systems 25*. (**NIPS** 2012).
+
+* [Colorization by Matrix Completion.]()
+**Shusen Wang** and Zhihua Zhang.
+In *the 26th AAAI Conference on Artificial Intelligence*. (**AAAI** 2012).
+
+* [Efficient Subspace Segmentation via Quadratic Programming.]()
+**Shusen Wang**, Xiaotong Yuan, Tiansheng Yao, Shuicheng Yan, and Jialie Shen. 
+In *the 25th AAAI Conference on Artificial Intelligence*. (**AAAI** 2011).
